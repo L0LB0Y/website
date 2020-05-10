@@ -1,5 +1,4 @@
 import categories from "./data";
-
 export default class Component {
 
     constructor() {
